@@ -54,8 +54,8 @@ router.put('/products/:id', async (req, res) => {
     if (prod) {
       prod.name = name;
       prod.client = client;
-      await prod.save();
-      res.json(prod);
+      const newProd = await prod.save();
+      res.json(newProd);
     }
     else res.status(404).json({ message: 'Not found...' });
   }

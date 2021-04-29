@@ -55,8 +55,8 @@ router.put('/employees/:id', async (req, res) => {
       emp.firstName = firstName;
       emp.lastName = lastName;
       emp.department = department;
-      await emp.save();
-      res.json(emp);
+      const newEmp = await emp.save();
+      res.json(newEmp);
     }
     else res.status(404).json({ message: 'Not found...' });
   }
