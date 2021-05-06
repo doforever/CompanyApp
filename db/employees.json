@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60891772ec0584d6dc9daa1a"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "department": "6089183aec0584d6dc9daa1f"
+},{
+  "_id": {
+    "$oid": "60891772ec0584d6dc9daa1b"
+  },
+  "firstName": "Amanda",
+  "lastName": "Doe",
+  "department": "6089183aec0584d6dc9daa20"
+},{
+  "_id": {
+    "$oid": "60891772ec0584d6dc9daa1c"
+  },
+  "firstName": "Jonathan",
+  "lastName": "Wilson",
+  "department": "6089183aec0584d6dc9daa1f"
+},{
+  "_id": {
+    "$oid": "60891772ec0584d6dc9daa1d"
+  },
+  "firstName": "Thomas",
+  "lastName": "Jefferson",
+  "department": "6089183aec0584d6dc9daa21"
+},{
+  "_id": {
+    "$oid": "60891772ec0584d6dc9daa1e"
+  },
+  "firstName": "Emma",
+  "lastName": "Cowell",
+  "department": "6089183aec0584d6dc9daa21"
+}]
