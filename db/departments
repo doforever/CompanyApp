@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6089183aec0584d6dc9daa1f"
+  },
+  "name": "IT"
+},{
+  "_id": {
+    "$oid": "6089183aec0584d6dc9daa20"
+  },
+  "name": "Marketing"
+},{
+  "_id": {
+    "$oid": "6089183aec0584d6dc9daa21"
+  },
+  "name": "Testing"
+},{
+  "_id": {
+    "$oid": "60892e079bb1ff6b8ddca491"
+  },
+  "name": "Management"
+}]
